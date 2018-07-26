@@ -1,9 +1,10 @@
-package dfs;
+package src.dfs;
+
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class CombinationSum {
+public class CombinationSum { 
 
 	public List<List<Integer>> combinationSum3(int k, int n) {
 		List<List<Integer>> result = new ArrayList<>();
